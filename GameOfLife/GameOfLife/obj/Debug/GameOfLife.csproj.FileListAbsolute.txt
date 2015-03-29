@@ -1,0 +1,14 @@
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\bin\Debug\NFluent.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\bin\Debug\NFluent.xml
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\bin\Debug\NFluent.dll
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\bin\Debug\NFluent.xml
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
+C:\Users\Morgan\Documents\GitHub\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb

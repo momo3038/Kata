@@ -1,0 +1,9 @@
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\bin\Debug\GameOfLife.Test.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\bin\Debug\GameOfLife.Test.pdb
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\bin\Debug\NFluent.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\bin\Debug\NFluent.xml
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\obj\Debug\GameOfLife.Test.csprojResolveAssemblyReference.cache
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\obj\Debug\GameOfLife.Test.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\obj\Debug\GameOfLife.Test.pdb
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\bin\Debug\GameOfLife.dll
+C:\Workspaces\Kata\GameOfLife\GameOfLife\GameOfLife.Test\bin\Debug\GameOfLife.pdb
