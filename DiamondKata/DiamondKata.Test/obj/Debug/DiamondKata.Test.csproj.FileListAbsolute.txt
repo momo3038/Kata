@@ -1,9 +1,0 @@
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\bin\Debug\DiamondKata.Test.dll
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\bin\Debug\DiamondKata.Test.pdb
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\bin\Debug\NFluent.dll
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\bin\Debug\nunit.framework.dll
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\bin\Debug\NFluent.xml
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\bin\Debug\nunit.framework.xml
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\obj\Debug\DiamondKata.Test.dll
-c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\obj\Debug\DiamondKata.Test.pdb
-C:\Users\Morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata.Test\obj\Debug\DiamondKata.Test.csprojResolveAssemblyReference.cache
