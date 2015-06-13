@@ -1,0 +1,5 @@
+c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata\bin\Debug\DiamondKata.dll
+c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata\bin\Debug\DiamondKata.pdb
+c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata\obj\Debug\DiamondKata.csprojResolveAssemblyReference.cache
+c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata\obj\Debug\DiamondKata.dll
+c:\users\morgan\documents\visual studio 2013\Projects\DiamondKata.Test\DiamondKata\obj\Debug\DiamondKata.pdb
